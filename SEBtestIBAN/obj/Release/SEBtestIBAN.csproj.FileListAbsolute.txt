@@ -1,0 +1,9 @@
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\bin\Release\SEBtestIBAN.exe.config
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\bin\Release\SEBtestIBAN.exe
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\bin\Release\SEBtestIBAN.pdb
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.Test.resources
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.Properties.Resources.resources
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.csproj.GenerateResource.Cache
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.exe
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEB_IBAN\SEBtestIBAN\obj\Release\SEBtestIBAN.pdb
