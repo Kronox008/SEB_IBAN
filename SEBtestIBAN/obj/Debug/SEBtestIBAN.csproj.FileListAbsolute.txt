@@ -1,0 +1,10 @@
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\bin\Debug\SEBtestIBAN.exe.config
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\bin\Debug\SEBtestIBAN.exe
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\bin\Debug\SEBtestIBAN.pdb
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.Test.resources
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.Properties.Resources.resources
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.csproj.GenerateResource.Cache
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.csproj.CoreCompileInputs.cache
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.exe
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.pdb
+C:\Users\Unknown\source\repos\SEBtestIBAN\SEBtestIBAN\obj\Debug\SEBtestIBAN.csprojResolveAssemblyReference.cache
